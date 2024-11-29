@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1732831982 source:c:\users\livio\onedrive\Área de trabalho\teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
